@@ -1,2 +1,2 @@
 # aipnd-ImageClassifierApp
-Image Classifier Command Line application
+Udacity Data Scientist Nano Degree Image Classifier Command Line application
